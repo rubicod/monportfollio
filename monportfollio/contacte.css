@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+  
+}
+body{
+ background-image: linear-gradient(to right , rgba(9, 48, 65, 0.466) , rgba(3, 19, 26, 0.466),rgba(1, 11, 15, 0.466)  ), url(image/cell-phone-690192_1920.jpg); 
+
+}
+.nav2{
+    background-color: rgba(241, 241, 241, 0.585);
+    width: auto,
+
+}
+.titre2p{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(255, 254, 254);
+    transform: translate(555,110px);
+}
+ #vien{
+     color: rgb(247, 246, 245);
+      transform: translate(280px,130px);
+ }
+ form{
+    
+    transform: translate(680px,60px);
+    opacity: 70%;
+
+
+ } 
+ .conta{
+    transform: translate(280px,-270px);
+    color:beige;
+ }
+ footer{
+     background-color: rgba(253, 253, 253, 0.598);
+     display: flex;
+    transform: translate(0px,46px) ;
+    justify-content: space-between ;
+ }
+ .sicon
